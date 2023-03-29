@@ -37,3 +37,5 @@ for size in "${GENERATE_SIZE[@]}"; do
     done < ${TMP_DIR}/${LIST_FILE}
 
 done
+
+# MEMO: zip -r Azure_Public_Service_Icons_V13_PNG.zip icons
