@@ -1,4 +1,4 @@
-# Azure architecture icons V17 (png version)
+# Azure architecture icons V19 (png version)
 
 ## Introduction
 
