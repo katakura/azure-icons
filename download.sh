@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eu -o pipefail
 
-DOWNLOAD_URL=https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V19.zip
+DOWNLOAD_URL=https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V20.zip
 GENERATE_SIZE=(64 256 512)
 ZIP_FILE_NAME=azure-icons.zip
 TMP_DIR=./tmp
