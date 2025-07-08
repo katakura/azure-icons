@@ -1,4 +1,4 @@
-# Azure architecture icons V20 (png version)
+# Azure architecture icons V21 (png version)
 
 ## Introduction
 
